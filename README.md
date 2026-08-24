@@ -121,7 +121,7 @@ Status      : Undergraduate Student
 </a>
 
 
-<a https://bd.linkedin.com/in/taimiyatahsinhref=">
+<a https://bd.linkedin.com/in/taimiyatahsinhref=" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
