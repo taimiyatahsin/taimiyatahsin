@@ -121,9 +121,9 @@ Status      : Undergraduate Student
 </a>
 
 
-<a https://bd.linkedin.com/in/taimiyatahsinhref=" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
+  <a href="https://bd.linkedin.com/in/taimiyatahsin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Taimiya%20Tahsin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
 
 <a href="https://orcid.org/0009-0007-9107-0176" target="_blank">
