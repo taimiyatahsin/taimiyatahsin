@@ -160,6 +160,14 @@ Status      : Undergraduate Student
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
+<a href="https://www.reddit.com/user/Mew_Melody/" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-Mew__Melody-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+</a>
+
+<a href="https://www.tumblr.com/mewmelody" target="_blank">
+  <img src="https://img.shields.io/badge/Tumblr-mewmelody-35465C?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr"/>
+</a>
+
 <a href="https://www.threads.com/@taimiyatahsin0" target="_blank">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
 </a>
