@@ -126,6 +126,10 @@ Status      : Undergraduate Student
   </a>
 
 
+<a href="https://codepen.io/taimiyatahsin0-png" target="_blank">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+</a>
+
 <a href="https://orcid.org/0009-0007-9107-0176" target="_blank">
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
