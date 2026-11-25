@@ -1,20 +1,20 @@
 <div align="center">
 
 <img src="./Peakaboo.gif">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1B3A&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 
 <img src="./maire-the-aristocats.gif">
 
 # TAIMIYA TAHSIN
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&duration=3500&color=78A9FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Artificial+Intelligence+Enthusiast;Research+Enthusiast;Learning+C,+C%2B%2B,+Python,+Git+%26+GitHub;Dream+%E2%9C%A8+Learn+%F0%9F%8C%B8+Build"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&duration=3500&color=FF69B4&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Artificial+Intelligence+Enthusiast;Research+Enthusiast;Learning+C,+C%2B%2B,+Python,+Git+%26+GitHub;Dream+%E2%9C%A8+Learn+%F0%9F%8C%B8+Build"/>
 
-<img src="https://komarev.com/ghpvc/?username=taimiyatahsin&label=PROFILE+VIEWS&style=for-the-badge&color=294B87"/>
+<img src="https://komarev.com/ghpvc/?username=taimiyatahsin&label=PROFILE+VIEWS&style=for-the-badge&color=FF69B4"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1B3A&height=130&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=130&section=header"/>
 
 <img src="./marie-the-aristocats.gif">
 
@@ -30,7 +30,7 @@ Status      : Undergraduate Student
 
 <img src="./the-aristocats-marie (3)loveee.webp">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1B3A&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 
 ### 💗 Interests
 
@@ -45,7 +45,7 @@ Status      : Undergraduate Student
 
 <img src="./the-aristocats-marie (cuteeee1).webp">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1B3A&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 
 ### 🌱 Currently Learning
 
@@ -60,7 +60,7 @@ Status      : Undergraduate Student
 
 <img src="./the-aristocats-embarrassed.webp">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1B3A&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 ### 💻 Tech Stack
 
 <p align="center">
@@ -70,7 +70,7 @@ Status      : Undergraduate Student
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1B3A&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 
 <img src="./the-aristocats-writing-dowgoaln.webp">
 
@@ -106,22 +106,22 @@ Status      : Undergraduate Student
 
 🩷 Artificial Intelligence
 🩷 Machine Learning<img 
-                    src="https://capsule-render.vercel.app/api?type=rect&color=0B1B3A&height=3"/>
+                    src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 
 <img src="./the-aristocats-disneyokkk.webp">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1B3A&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 
 # 🌐 Let's Connect
 
 <p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taimiyatahsin) [![Portfolio](https://img.shields.io/badge/Portfolio-294B87?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taimiyatahsin.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/taimiyatahsin) [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/taimiyatahsin) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9107-0176) [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/781Fie0E8) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taimiyatahsin0) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/taimiyatahsin01) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/taimiya_tahsin) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/taimiyatahsin) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@taimiyatahsin0) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Mew_Melody/) [![Tumblr](https://img.shields.io/badge/Tumblr-35465C?style=for-the-badge&logo=tumblr&logoColor=white)](https://www.tumblr.com/mewmelody) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@taimiyatahsin0) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/taimiyatahsin.bsky.social) [![ResearchID](https://img.shields.io/badge/ResearchID-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://researchid.co/taimiya_tahsin) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taimiyatahsin1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taimiyatahsin) [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taimiyatahsin.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/taimiyatahsin) [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/taimiyatahsin) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9107-0176) [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/781Fie0E8) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taimiyatahsin0) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/taimiyatahsin01) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/taimiya_tahsin) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/taimiyatahsin) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@taimiyatahsin0) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Mew_Melody/) [![Tumblr](https://img.shields.io/badge/Tumblr-35465C?style=for-the-badge&logo=tumblr&logoColor=white)](https://www.tumblr.com/mewmelody) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@taimiyatahsin0) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/taimiyatahsin.bsky.social) [![ResearchID](https://img.shields.io/badge/ResearchID-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://researchid.co/taimiya_tahsin) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taimiyatahsin1@gmail.com)
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1B3A&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 <img src="./the-aristocats-marie.gif">
 
 <img src="./43777aabdfd50ec9184e63cb07919f62.gif">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1B3A&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
