@@ -175,6 +175,9 @@ Status      : Undergraduate Student
 <a href="https://www.threads.com/@taimiyatahsin0" target="_blank">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
 </a>
+<a href="https://bsky.app/profile/taimiyatahsin.bsky.social" target="_blank">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+</a>
 
 
 <a href="https://researchid.co/taimiya_tahsin" target="_blank">
